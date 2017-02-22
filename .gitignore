@@ -1,0 +1,7 @@
+# Jekyll data
+_site
+.sass-cache
+.jekyll-metadata
+
+# IDE files
+.idea
